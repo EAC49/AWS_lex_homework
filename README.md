@@ -1,1 +1,1 @@
-# AWS_lex_hw
+# AWS_lex_homework
